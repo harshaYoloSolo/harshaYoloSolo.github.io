@@ -49,6 +49,7 @@ A passionate Research fellow with a strong background in full-stack development,
 - **KNN Algorithm for Big Data** - *Implemented using Hadoop & MapReduce.*
 - **IEEE Conference Website** - *Built using HTML, PHP, CSS and MYSQL.*
 - **Adversarial Examples** - *Privacy protection of users from automatic recognition in social media.*
+
 ---
 
 ## Achievements
