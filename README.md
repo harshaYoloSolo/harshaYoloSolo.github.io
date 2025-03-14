@@ -1,7 +1,9 @@
 # Harsha K - Post Grad @NITJ
 
 📍 **Location** Sri Ranga Nilaya,Chikkamagalur,India
+
 📧 **Email:** harshak.is.23@nitj.ac.in | harsha.kushbu@gmail.com
+
 🔗 **Portfolio/LinkedIn/GitHub:** [leetcode](https://leetcode.com/u/user8965vU/)  
 
 ---
