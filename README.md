@@ -2,18 +2,18 @@
 
 📍 **Location** Sri Ranga Nilaya,Chikkamagalur,India
 
-📧 **Email:** harshak.is.23@nitj.ac.in | harsha.kushbu@gmail.com
+📧 **Email:** harshak.is.23@nitj.ac.in|harsha.kushbu@gmail.com
 
 🔗 **Portfolio/LinkedIn/GitHub:** [leetcode](https://leetcode.com/u/user8965vU/)  
 
 ---
 
-## 🌟 About Me
+## About Me
 A passionate Research fellow with a strong background in full-stack development, machine learning, and IoT-based projects. With a knack for problem-solving and automation, I love to optimize workflows and create impactful solutions. Always on the lookout for exciting challenges and opportunities to innovate. Currently pursuing Masters under the guidance of [Dr. Samayveer Singh](https://departments.nitj.ac.in/dept/cse/Faculty/6430446b38bff038a78085b7) in the area of machine learning robustness and potential attacks on models.
 
 ---
 
-## 🎓 Education
+## Education
 - **Degree & Major** - *National Institute of Technology Karnataka Surathkal* (2019)  
   - CGPA: 7.19/10
 - **12th** - *Sharada Pre-University Mangaluru Karnataka* (2015)
@@ -23,7 +23,7 @@ A passionate Research fellow with a strong background in full-stack development,
 
 ---
 
-## 💻 Professional Experience
+## Professional Experience
 
 ### **Teaching Assistants @ Dept of CSE NITJalandhar (Aug 2023 – present)**
 - Conducted lab classes for the undergrad at NITJ for courses like DSA, OOPS and C Programming.
@@ -41,7 +41,7 @@ A passionate Research fellow with a strong background in full-stack development,
   
 ---
 
-## 🔥 Projects
+## Projects
 - **Agrisense Smart Farming** - *IoT-based MQTT messaging protocol for efficient smart farming.*  
 - **Message Service System** - * Java-based socket communication with GUI.*
 - **Online Recharge Website** - *Platform for mobile, DTH, and data card recharges.*
@@ -51,7 +51,7 @@ A passionate Research fellow with a strong background in full-stack development,
 - **Adversarial Examples** - *Privacy protection of users from automatic recognition in social media.*
 ---
 
-## 🏆 Achievements
+## Achievements
 - **State & District Level Winner** - *Science Talent Exam.*  
 - **Inspire Internship Graduate** - *Research motivation program.*
 - - **UGC-NET** - *Cleared UGC-NET in all 3 category.*  
@@ -59,21 +59,21 @@ A passionate Research fellow with a strong background in full-stack development,
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 - **Languages:** Python, Java, C++, JavaScript  
 - **Databases:** MySQL, MongoDB  
 - **Tools/Frameworks:** TensorFlow, Angular, NodeJS  
 
 ---
 
-## 🎯 Extra-Curricular Activities
-- 🏏 Cricket & 🏐 Volleyball enthusiast.
-- 🏆 District-Level Winner - Cooking Without Fire.
-- 🎬 Been Member of FILMS CLUB, NITK.
--  Active Member of Regional Language Club, NITJ.
+## Extra-Curricular Activities
+- Cricket & 🏐 Volleyball enthusiast.
+- District-Level Winner - Cooking Without Fire.
+- Been Member of FILMS CLUB, NITK.
+- Active Member of Regional Language Club, NITJ.
 
 ---
 
-## 📂 More Info
-📄 Check out my **[CV](docs/assests/Resume.pdf)** for full details!  
+## More Info
+Check out my **[CV](docs/assests/Resume.pdf)** for full details!  
 *Let’s connect and build something amazing!*  
