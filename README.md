@@ -42,7 +42,7 @@ A passionate Research fellow with a strong background in full-stack development,
 ---
 
 ## 🔥 Projects
-- **Agrisense Smart Farming ** - *IoT-based MQTT messaging protocol for efficient smart farming.*  
+- **Agrisense Smart Farming** - *IoT-based MQTT messaging protocol for efficient smart farming.*  
 - **Message Service System** - * Java-based socket communication with GUI.*
 - **Online Recharge Website** - *Platform for mobile, DTH, and data card recharges.*
 - **Linux File Management GUI** - *Built using Zenity.*
@@ -52,8 +52,8 @@ A passionate Research fellow with a strong background in full-stack development,
 ---
 
 ## 🏆 Achievements
-- **State & District Level Winner ** - *Science Talent Exam.*  
-- **Inspire Internship Graduate ** - *Research motivation program.*
+- **State & District Level Winner** - *Science Talent Exam.*  
+- **Inspire Internship Graduate** - *Research motivation program.*
 - - **UGC-NET** - *Cleared UGC-NET in all 3 category.*  
 - **Top 2 in School** - *10th Board exams*
 
