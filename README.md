@@ -73,5 +73,5 @@ A passionate Research fellow with a strong background in full-stack development,
 ---
 
 ## 📂 More Info
-📄 Check out my **[CV](Resume.pdf)** for full details!  
+📄 Check out my **[CV](docs/assests/Resume.pdf)** for full details!  
 *Let’s connect and build something amazing!*  
