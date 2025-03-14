@@ -55,7 +55,7 @@ A passionate Research fellow with a strong background in full-stack development,
 ## Achievements
 - **State & District Level Winner** - *Science Talent Exam.*  
 - **Inspire Internship Graduate** - *Research motivation program.*
-- - **UGC-NET** - *Cleared UGC-NET in all 3 category.*  
+- **UGC-NET** - *Cleared UGC-NET in all 3 category.*  
 - **Top 2 in School** - *10th Board exams*
 
 ---
